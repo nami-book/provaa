@@ -25,7 +25,7 @@ export default function HomeRoute() {
                 name="VideoAudio"
                 component={VideoAudioScreen}
                 options={{
-                    drawerLabel: "Vídeo Áudio ",
+                    drawerLabel: "Video Audio ",
                     drawerIcon: () => (
                         <MaterialCommunityIcons
                             name="video"
